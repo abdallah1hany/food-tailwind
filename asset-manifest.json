@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abdallah1hany/food-tailwind/static/css/main.af2f0515.css",
+    "main.js": "/abdallah1hany/food-tailwind/static/js/main.f57be66c.js",
+    "index.html": "/abdallah1hany/food-tailwind/index.html",
+    "main.af2f0515.css.map": "/abdallah1hany/food-tailwind/static/css/main.af2f0515.css.map",
+    "main.f57be66c.js.map": "/abdallah1hany/food-tailwind/static/js/main.f57be66c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af2f0515.css",
+    "static/js/main.f57be66c.js"
+  ]
+}
